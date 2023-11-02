@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\herramientas-parcial1-brunosilva.props" />
+</Project>

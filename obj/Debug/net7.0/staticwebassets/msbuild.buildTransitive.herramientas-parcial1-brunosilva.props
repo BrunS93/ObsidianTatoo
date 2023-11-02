@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\herramientas-parcial1-brunosilva.props" />
+</Project>
